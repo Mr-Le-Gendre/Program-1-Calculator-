@@ -17,7 +17,7 @@ int main() {
     cout << "Enter the second number: ";
     cin >> num2;
 
-    // Ask the user to input which math operation
+    // Ask the user to input operation
     cout << "Enter the operation (+, -, *, /): ";
     cin >> op;
 
